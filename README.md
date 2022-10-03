@@ -16,9 +16,9 @@ Data analysis of Power to Change grants for climate and ecological action
 5. Climate funding is highly focused on funding most deprived areas
 6. Time series trends: increasing, particularly since 2018 and C-19
 7. Climate related funding represents 19 percent of PtC’s grant funding 
-8. PtC 3rd biggest funder of climate action grants
+8. PtC is the 3rd biggest funder of climate action grants
 
 
 Working in partnership for Power to Change, this work was completed by: 
-- Data Orchard  - Madeleine Spinks and Sian Basker:
+- Data Orchard  - Madeleine Spinks and Sian Basker
 - Future Energy Associates  - Laurence Watson and Dylan Johnson
