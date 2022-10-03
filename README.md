@@ -20,5 +20,5 @@ Data analysis of Power to Change grants for climate and ecological action
 
 
 Working in partnership for Power to Change, this work was completed by: 
-Data Orchard CIC ‘Enabling organisations to use data for better decisions and greater impact
-Future Energy Associates ‘Driving the energy transition with data science’
+- Data Orchard  (Madeleine Spinks/Sian Basker): ‘Enabling organisations to use data for better decisions and greater impact 
+- Future Energy Associates (Laurence Watson/Dylan Johnson) ‘Driving the energy transition with data science’
